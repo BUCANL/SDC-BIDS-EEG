@@ -1,5 +1,5 @@
 ---
-title: "Preprocessing"
+title: "Channel Information"
 teaching: 0
 exercises: 0
 questions:

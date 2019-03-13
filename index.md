@@ -11,7 +11,7 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> SDC-BIDS
 {: .prereq}
 
 {% include links.md %}

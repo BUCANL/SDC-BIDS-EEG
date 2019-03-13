@@ -1,5 +1,5 @@
 ---
-title: "Preprocessing"
+title: "EEG Modality Specific Information"
 teaching: 0
 exercises: 0
 questions:

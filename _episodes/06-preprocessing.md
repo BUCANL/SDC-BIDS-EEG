@@ -9,7 +9,10 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. (FIXME)"
 ---
-FIXME
+detrending
+filtering
+downsampling
+reref/proj
 
 {% include links.md %}
 

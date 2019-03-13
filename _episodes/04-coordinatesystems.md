@@ -1,5 +1,5 @@
 ---
-title: "Preprocessing"
+title: "Coordinate Systems"
 teaching: 0
 exercises: 0
 questions:

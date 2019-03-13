@@ -1,5 +1,5 @@
 ---
-title: "Preprocessing"
+title: "Data Properties and Annotations"
 teaching: 0
 exercises: 0
 questions:
